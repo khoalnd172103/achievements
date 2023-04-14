@@ -7,5 +7,5 @@
 -| ---- | ----------- 
 1| [Coursera Certificates](./coursera) | All of my achievements in Coursera
 
-## License & Copyright
+## Copyright
 #### © 2023 Ly Ngoc Dang Khoa
